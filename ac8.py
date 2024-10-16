@@ -1,0 +1,7 @@
+print(10==10)
+print(10==9)
+print(10!=9)
+print(6<9)
+print(9<6)
+print(10<=10)
+print(7>=6)
